@@ -7,3 +7,4 @@ Nesse caso, podemos validar o endereço utilizando uma API que nos forneça o en
 
 Para esse pequeno exemplo, vamos utilizar o Bootstrap 4 como base. A ideia é quando o usuário preencher o INPUT com ID "cep", o script capture o valor, depois faça uma requisição a API, tendo resultado, preencha os demais campos do formulário.
 
+Exemplo em funcionamento: https://marcos-queiroz.github.io/viacep/
